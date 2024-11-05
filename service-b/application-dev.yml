@@ -1,2 +1,7 @@
 service:
  name: test service for dev-B
+
+info:
+  studentNumber: 201835510
+  name: 찬호
+
